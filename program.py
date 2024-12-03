@@ -1,1 +1,1 @@
-print('firat commit')
+print('first commit')
